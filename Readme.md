@@ -34,9 +34,8 @@ Contiene los siguientes pasos:
 ![Eda](./src/vict_sexo.png)
 
 
-
 ## Análisis de KPIs y Tendencias de Comportamiento en python
-En el archivo [KPI](https://github.com/KeylaSernaB/PI_DA/blob/main/kpis.ipynb), se realizó la visualización y el análisis de los Key Performance Indicators (KPIs), donde se utilizó la librería  matplotlib y seaborn en Python para crear los gráficos necesarios que pudieran reflejar los dos KPIs solicitados. Estos gráficos permitieron visualizar las tendencias y los valores de los KPIs, a lo largo del tiempo requerido, de manera comparativa y en el contexto específico en el que se situaba el período, con el fin de comprender su desempeño y su evolución.
+En el archivo [KPI](https://github.com/KeylaSernaB/PI_DA/blob/main/Notebooks/kpis.ipynb), se realizó la visualización y el análisis de los Key Performance Indicators (KPIs), donde se utilizó la librería  matplotlib y seaborn en Python para crear los gráficos necesarios que pudieran reflejar los dos KPIs solicitados. Estos gráficos permitieron visualizar las tendencias y los valores de los KPIs, a lo largo del tiempo requerido, de manera comparativa y en el contexto específico en el que se situaba el período, con el fin de comprender su desempeño y su evolución.
 
 → Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior
 → Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior
