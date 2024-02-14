@@ -9,7 +9,6 @@
 
 
 # <h1 align=center> **PROYECTO INDIVIDUAL Nº2** </h1>
-
 # <h1 align=center>**`SINIESTROS VIALES`**</h1>
 
 ## ETL
@@ -20,7 +19,7 @@ Se realizó los siguientes pasos:
 3. Carga de los datos en un archivo csv.
 
 ## EDA
-En el [EDA](https://github.com/KeylaSernaB/PI_DA/blob/main/Notebooks/EDA.ipynb) contencontramos el código para el análisis exploratorio de los datos de accidentes viales en la Ciudad de Buenos Aires. 
+En el [EDA](https://github.com/KeylaSernaB/PI_DA/blob/main/Notebooks/EDA.ipynb) encontramos el código para el análisis exploratorio de los datos de accidentes viales en la Ciudad de Buenos Aires. 
 Contiene los siguientes pasos:
 1. Lectura de los datos de accidentes viales en la Ciudad de Buenos Aires.
 2. Análisis exploratorio de los datos. algunos de los análisis se pueden ver en las siguientes imágenes:
