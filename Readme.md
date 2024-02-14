@@ -33,7 +33,7 @@ Contiene los siguientes pasos:
 
 ![Eda](./src/vict_sexo.png)
 
-3. Visualización de los datos.
+
 
 ## Análisis de KPIs y Tendencias de Comportamiento en python
 En el archivo [KPI](https://github.com/KeylaSernaB/PI_DA/blob/main/kpis.ipynb), se realizó la visualización y el análisis de los Key Performance Indicators (KPIs), donde se utilizó la librería  matplotlib y seaborn en Python para crear los gráficos necesarios que pudieran reflejar los dos KPIs solicitados. Estos gráficos permitieron visualizar las tendencias y los valores de los KPIs, a lo largo del tiempo requerido, de manera comparativa y en el contexto específico en el que se situaba el período, con el fin de comprender su desempeño y su evolución.
