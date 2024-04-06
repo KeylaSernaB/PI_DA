@@ -11,7 +11,18 @@
 # <h1 align=center> **PROYECTO INDIVIDUAL Nº2** </h1>
 # <h1 align=center>**`SINIESTROS VIALES`**</h1>
 
-## Objetivo 
+## 📋 **Tabla de contenidos**
+- [Objetivo](#objetivo)
+- [ETL](#etl)
+- [EDA](#eda)
+- [Análisis de KPIs y Tendencias de Comportamiento en python](#análisis-de-kpis-y-tendencias-de-comportamiento-en-python)
+- [Despliegue en Power Bi | Análisis de KPIs y Tendencias](#despliegue-en-power-bi--análisis-de-kpis-y-tendencias)
+-[KPI](#kpi)
+-[CONCLUSIONES](#conclusiones)
+- [RECOMENDACIONES](#recomendaciones)
+
+
+## **Objetivo** 
 Generar un análisis de los datos, de forma exhaustiva, con el fin de  obtener hallazgos con información clave, que permita generar un mejor entendimiento del problema y brinde la posibilidad de proyectar pautas resolutivas de manera integral y eficiente.
 
 ## ETL
