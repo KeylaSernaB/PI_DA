@@ -17,8 +17,8 @@
 - [EDA](#eda)
 - [Análisis de KPIs y Tendencias de Comportamiento en python](#análisis-de-kpis-y-tendencias-de-comportamiento-en-python)
 - [Despliegue en Power Bi | Análisis de KPIs y Tendencias](#despliegue-en-power-bi--análisis-de-kpis-y-tendencias)
--[KPI](#kpi)
--[CONCLUSIONES](#conclusiones)
+- [KPI](#kpi)
+- [CONCLUSIONES](#conclusiones)
 - [RECOMENDACIONES](#recomendaciones)
 
 
