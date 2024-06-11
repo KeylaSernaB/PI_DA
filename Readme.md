@@ -53,7 +53,7 @@ En el archivo [KPI](https://github.com/KeylaSernaB/PI_DA/blob/main/Notebooks/kpi
 
 * Creación de un Tercer KPI: además de los KPIs solicitados, se creó un tercer indicador de rendimiento (KPI), el cual se diseñó con el propósito de complementar y enriquecer la evaluación de los KPIs otorgados como requerimiento básico, logrando una perspectiva más completa y profunda.
   
-→ Reducir en un 5% la cantidad de accidentes mortales de autos en el último añsemestre del año 2021,  respecto al semestre anterior.
+→ Reducir en un 5% la cantidad de accidentes mortales de autos en el último semestre del año 2021,  respecto al semestre anterior.
 
 ## Despliegue en Power Bi | Análisis de KPIs y Tendencias 
 
